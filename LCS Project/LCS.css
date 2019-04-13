@@ -1,0 +1,67 @@
+
+      
+  	
+
+
+body {
+  background-image:
+
+      url("https://cdn.bringatrailer.com/wp-content/uploads/2018/10/1987_toyota_land_cruiser_fj60_15397232071c3e7bebd2b9a60dIMG_4157-940x657.jpg"); 
+
+background-size: cover; 
+background-repeat: no-repeat;
+
+}
+
+
+
+h1, h4{
+	color: #ece3c3;
+	text-align: center; 
+	 text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+    margin-bottom: 2px; 
+}
+
+.line{
+	  width: 200px;
+	  border-top:1px solid #ece3c3;
+	  border-bottom: 1px solid rgba(0,0,0,0.2);
+	  padding-top: 0;
+	  margin-top: 0;
+   }
+#welcome{
+	color: white;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+#first{
+	background: rgb(244, 188, 66, 0.3);
+	text-align: center;
+	color: white;
+	
+}
+
+#tlca {
+	 gold; }
+
+#second{
+	background: rgb(239, 61, 11, 0.3);
+	text-align: center; 
+	color: white;
+
+}
+
+#third{
+	background: rgb(11, 71, 234, 0.3);
+	text-align: center; 
+	color: white;
+}
+
+.description{
+	color: #4682b4; 
+}
